@@ -1,0 +1,29 @@
+# Environment & secrets
+.env
+
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs (keep directory, ignore generated files)
+outputs/*.md
+!outputs/.gitkeep
